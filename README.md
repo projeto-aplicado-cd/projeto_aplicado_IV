@@ -8,7 +8,7 @@ Este trabalho está diretamente relacionado com o **ODS 8: Trabalho Decente e Cr
 
 ### ODS 8: Trabalho Decente e Crescimento Econômico
 
-A ODS 8 visa promover um crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos. A predição da taxa de desemprego contribui para:
+A ODS 8 visa promover um crescimento econômico inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos. A predição da taxa de desemprego contribui para:
 
 - **Monitoramento de Desemprego**: Identificação de tendências e possíveis crises no mercado de trabalho.
 - **Políticas Públicas**: Orientação na formulação de políticas públicas e programas de emprego.

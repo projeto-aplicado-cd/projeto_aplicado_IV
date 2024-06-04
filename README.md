@@ -4,7 +4,7 @@ Este projeto tem como objetivo prever a taxa de desemprego no Distrito Federal u
 
 ## Objetivo de Desenvolvimento Sustentável (ODS) Relacionado
 
-Este trabalho está diretamente relacionado com o **ODS 8: Trabalho Decente e Crescimento Econômico**.
+Este trabalho está diretamente relacionado com a **ODS 8: Trabalho Decente e Crescimento Econômico**.
 
 ### ODS 8: Trabalho Decente e Crescimento Econômico
 
@@ -19,7 +19,9 @@ Para mais informações sobre a ODS 8, visite [Nações Unidas - ODS 8](https://
 
 ## Guia
 
-Este repositório foi criado para armazenar os artefatos gerados no projeto aplicado do grupo **Zeta**, assim como, datasets e os notebooks python criados para cada etapa e entrega do trabalho. Atualizamos o repositório conforme o andamento das atividades e desenvolvimento do modelo de previsão mensal de taxa de desemprego no Distrito Federal para o ano de 2024. O projeto foi desenvolvido por um grupo de 3 alunos do 5º semestre do curso de Ciência de Dados. Para mais informações acerca do projeto, acesse o nosso artigo [aqui](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV/blob/main/etapa4/Artigo_SBC_predicao_de_desemprego.pdf). O notebook completo pode ser encontrado na pasta [etapa4](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV/tree/main/etapa4).
+Este repositório foi criado para armazenar os artefatos gerados no projeto aplicado do grupo **Zeta**, assim como, datasets e os notebooks python criados para cada etapa e entrega do trabalho. Atualizamos o repositório conforme o andamento das atividades e desenvolvimento do modelo de previsão mensal de taxa de desemprego no Distrito Federal para o ano de 2024. 
+
+O projeto foi desenvolvido por um grupo de 3 alunos do 5º semestre do curso de Ciência de Dados. Para mais informações acerca do projeto, acesse o nosso artigo [aqui](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV/blob/main/etapa4/Artigo_SBC_predicao_de_desemprego.pdf). O notebook completo pode ser encontrado na pasta [etapa4](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV/tree/main/etapa4).
 
 Na pasta dataset, encontrará o arquivo [base_tratada.csv](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV/blob/main/dataset/base_tratada.csv) que contém os dados tratados para serem utilizados no modelo preditivo, caso queira reproduzir num ambiente próprio o que foi implementado neste trabalho.
 
